@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+      <title>Lista de equipos de La Liga</title>
+    </head>
+  <body>
+  <h1>Lista de equipos de La Liga de fútbol español</h1>
+  <img src="https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F15.png" height=100px width=100 px alt="La Liga"</img>
+  <p>Estos son los equipos que componen La Liga de fútbol español:</p>
+    <ol>
+      <li>Barcelona</li>
+      <li>Atlético</li>
+      <li>Real Madrid</li>
+      <li>Valencia</li>
+      <li>Getafe</li>
+      <li>Sevilla</li>
+      <li>Espanyol</li>
+      <li>Athletic</li>
+      <li>Real Sociedad</li>
+      <li>Betis</li>
+      <li>Alavés</li>
+      <li>Elbar</li>
+      <li>Leganés</li>
+      <li>Villareal</li>
+      <li>Levante</li>
+      <li>Valladolid</li>
+      <li>Celta</li>
+      <li>Girona</li>
+      <li>Huesca</li>
+      <li>Rayo</li>
+    </ol>
+  </body>
+</html>
